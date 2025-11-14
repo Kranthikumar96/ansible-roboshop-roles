@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.kranthicart.fun
+USER_HOST: user.kranthicart.fun
+RABBITMQ_HOST: rabbitmq.kranthicart.fun
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
