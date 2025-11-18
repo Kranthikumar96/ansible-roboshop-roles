@@ -1,4 +1,4 @@
-CATALOGUE_HOST: catalogue.kranthicart.fun
+CART_HOST: cart.kranthicart
 USER_HOST: user.kranthicart.fun
 RABBITMQ_HOST: rabbitmq.kranthicart.fun
 RABBITMQ_USER: roboshop
